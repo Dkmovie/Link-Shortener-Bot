@@ -1,12 +1,10 @@
-# Link Shortener
-Make short link by using Different Website API Keys
-### Installation
+# sotner
 
-#### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dkmovie/Link-Shortener-Bot)
 
-##### Required Variables
+Dkmovie
+
 
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
 
